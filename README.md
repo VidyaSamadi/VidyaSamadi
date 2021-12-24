@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am an Assistant Professor in Agricultural Sciences Department @Clemson University. My research focus is on hydroinformatics and developing tools that best address water resources engineering simulation problems. I have 
+I am an Assistant Professor in Agricultural Sciences Department @Clemson University. My research interest is on hydroinformatics and developing tools that best address water resources engineering simulation problems. I have an active research lab comprising students and lab memebers across multiple departments at Clemson University.  
 
 <!--
 **VidyaSamadi/VidyaSamadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
