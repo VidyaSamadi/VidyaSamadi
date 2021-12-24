@@ -2,7 +2,8 @@
 I am an Assistant Professor in the Agricultural Sciences Department @Clemson University. My focus is on applied engineering research, specifically on developing hydroinformatics tools and cyber-physical systems that best address water resources engineering simulation problems. I have an active research lab comprising students and lab members across multiple departments at Clemson University. I have active collaboration with hydroinformatics groups in the US and Europe where I mentor graduate students and collaborate on various research projects. We developed many tools and applications that their source codes are freely available at my Git account or at @ClemsonHHR Git account. I encourage you to look into our developed tools and if you are interested in collaborating and working with our team, please don't hesitate to contact me. 
 
  
-⚡ Fun fact: A while ago, I started studying computer science at GeorgiaTech, but eventually couldnot move forward due to full time job and personnal issues. &nbsp;   
+⚡ Fun fact &nbsp;
+A while ago, I started studying computer science at GeorgiaTech, but eventually couldnot move forward due to full time job and personnal issues. &nbsp;   
 
 📫 How to reach me: samadi@clemson.edu  
 <!--
