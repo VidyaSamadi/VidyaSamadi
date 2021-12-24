@@ -4,7 +4,7 @@ I am an Assistant Professor in the Agricultural Sciences Department @Clemson Uni
  
 ⚡ Fun fact &nbsp;
 - A while ago, I started studying Computer Science at GeorgiaTech, but eventually couldn't move forward due to my full time job and personal issues! &nbsp;  
-- I believe in gender diversity in research and education because the world needs more women in STEM!
+- I believe in gender diversity and inclusion in research and education because when groups of intelligent individuals are working to solve problems, the diversity of the problem solvers matters more than their individual ability.
 
 📫 How to reach me: samadi@clemson.edu  
 <!--
