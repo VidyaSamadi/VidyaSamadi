@@ -4,8 +4,6 @@ I am an Assistant Professor in the Agricultural Sciences Department @Clemson Uni
 ⚡ Fun fact &nbsp;
 - A while ago, I started studying Computer Science at GeorgiaTech, but eventually couldn't move forward due to my full time job and personal issues! &nbsp;  
 - I believe in gender diversity and inclusion in research and education because when groups of intelligent individuals are working to solve problems, the diversity of the problem solvers matters more than their individual ability. 
-- We @HHRClemson have a Justice, Equity, Diversity, and Inclusion (JEDI) statement! We honor diverse perspectives, hold space for truly hearing and understanding each other, and harness our collective strengths to bring into the water resources research community that promote justice, equity, diversity, and inclusivity.
-
 📫 How to reach me: samadi@clemson.edu  
 <!--
 **VidyaSamadi/VidyaSamadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
