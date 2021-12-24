@@ -3,7 +3,7 @@ I am an Assistant Professor in the Agricultural Sciences Department @Clemson Uni
 
  
 ⚡ Fun fact &nbsp;
-- A while ago, I started studying computer science at GeorgiaTech, but eventually couldn't move forward due to my full time job and personal issues! &nbsp;  
+- A while ago, I started studying Computer Science at GeorgiaTech, but eventually couldn't move forward due to my full time job and personal issues! &nbsp;  
 - I believe in gender diversity in research and education because the world needs more women in STEM!
 
 📫 How to reach me: samadi@clemson.edu  
