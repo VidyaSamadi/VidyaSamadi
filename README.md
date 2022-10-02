@@ -7,7 +7,7 @@ I am an Assistant Professor in  Agricultural Sciences Department @Clemson Univer
 
 📫 How to reach me: samadi@clemson.edu  
 
-BTW:We work on our codes offline and deploy at Git when we want to do version control and Beta testing!
+BTW: We work on our codes offline using Clemson Palmetto Cluster computing and deploy them at Git for version controling and Beta testing!
 <!--
 **VidyaSamadi/VidyaSamadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
