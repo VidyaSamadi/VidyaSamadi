@@ -6,6 +6,8 @@ I am an Assistant Professor in  Agricultural Sciences Department @Clemson Univer
 - I believe in gender diversity and inclusion in research and education because when groups of intelligent individuals are working to solve problems, the diversity of the problem solvers matters more than their individual ability. 
 
 📫 How to reach me: samadi@clemson.edu  
+
+BTW:We work on our codes offline and deploy at Git when we want to do version control and Beta testing!
 <!--
 **VidyaSamadi/VidyaSamadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
